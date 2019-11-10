@@ -7,7 +7,7 @@ Original source is [here](https://www.reddit.com/r/linux/comments/du0m7h/really_
 Usage
 -----
 
-The following generates 20 sentences using `file.txt`.
+The following line generates 20 sentences using `file.txt` as input.
 
 ```bash
 $  markov-nl.py file.txt 20
