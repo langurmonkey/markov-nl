@@ -2,6 +2,7 @@ Markov chain for NL
 ===================
 
 `markov-nl.py` is a very minimalistic order-1 Markov model for natural language generation. It takes a file with a text and generates n sentences using a Markov chain. Just for fun.
+Original source is [here](https://www.reddit.com/r/linux/comments/du0m7h/really_fast_markov_chains_in_20_lines_of_sh_grep/f70uull?utm_source=share&utm_medium=web2x).
 
 Usage
 -----
