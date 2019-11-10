@@ -15,7 +15,7 @@ $  markov-nl.py file.txt 20
 For example, using the open domain book "20000 leagues under the sea" by Jules Verne:
 
 ```bash
-$  markov-nl.py 2000-leagues-under-sea.txt
+$  markov-nl.py 20000-leagues-under-sea.txt
 
 Contempt for the ocean it must have to a thousand miles an enthusiastic colourist. 
 Nemo. Whiskers like the ships bottom of the quays and not see how to keep ones self
