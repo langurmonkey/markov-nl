@@ -11,6 +11,11 @@ The following generates 20 sentences using `file.txt`.
 ```bash
 $  markov-nl.py file.txt 20
 ```
+For example, using the open domain book "20000 leagues under the sea" by Jules Verne:
+
+```bash
+$  markov-nl.py 2000-leagues-under-sea.txt 100
+```
 
 For more help, use:
 
